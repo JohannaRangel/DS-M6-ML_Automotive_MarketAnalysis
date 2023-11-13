@@ -10,13 +10,13 @@ Nuestro cliente, una automotriz china, desea ingresar al mercado de automóviles
 - Implementar un **modelo de regresión** para predecir el precio final de los vehículos.
 
 ## Estructura del Proyecto
-1. [notebooks](notebooks/) - Carpeta que contiene Jupyter Notebooks esenciales para el proyecto.<br />
-1.1. [Exploración y Análisis de Datos](Notebooks/exploración-y-análisis-de-datos.ipynb) - Jupyter Notebook con el código para la exploración y análisis inicial del conjunto de datos.<br />
-3. [src](src/) - Contiene archivos relacionados con el manejo de datos<br />
-4. [data](data/) - Carpeta dedicada a almacenar archivos relacionados con el manejo de datos.<br />
-5. [docs](docs/) - Contiene los entregables: Un documento que resume hallazgos, metodologías y conclusiones del análisis. Además, incluye la presentación ejecutiva que destaca los puntos clave del estudio.<br />
+1. [**docs**](docs/) - Contiene los entregables: Documento que resume hallazgos, metodologías y conclusiones del análisis. Además, incluye la presentación ejecutiva que destaca los puntos clave del estudio.<br />
 
+2. [**notebooks**](notebooks/) - Carpeta que contiene Jupyter Notebooks esenciales para el proyecto.<br />
+2.1. [Exploración y Análisis de Datos](notebooks/exploración-y-análisis-de-datos.ipynb) - Jupyter Notebook con el código para la exploración y análisis inicial del conjunto de datos.<br />
 
-
+3. [**data**](data/) - Carpeta dedicada a almacenar archivos relacionados con el manejo de datos.<br />
+3.1. [Archivo Original](data/original_dataset.csv) - Este archivo contiene la versión inicial y sin procesar de los datos. Es la información en su forma bruta tal como se adquirió, antes de cualquier manipulación o transformación.<br />
+<br />
 
 
