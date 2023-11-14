@@ -13,7 +13,7 @@ Nuestro cliente, una automotriz china, desea ingresar al mercado de automóviles
 1. [**docs**](docs/) - Contiene los entregables, un documento que resume hallazgos, metodologías y conclusiones del análisis. Además, incluye la presentación ejecutiva que destaca los puntos clave del estudio.<br />
 
 2. [**notebooks**](notebooks/) - Carpeta que contiene Jupyter Notebooks esenciales para el proyecto.<br />
-2.1. [Conociendo nuestro dataset](notebooks/diccionario-datos.ipynb) - Guía detallada que le permitirá comprender la estructura y contenido del conjunto de datos.<br />
+2.1. [Conociendo Nuestro Dataset](notebooks/diccionario-datos.ipynb) - Guía detallada que le permitirá comprender la estructura y contenido del conjunto de datos.<br />
 2.2. [Exploración y Análisis de Datos](notebooks/exploración-y-análisis-de-datos.ipynb) - Jupyter Notebook con el código para la exploración y análisis inicial del conjunto de datos.<br />
 
 3. [**data**](data/) - Carpeta dedicada a almacenar archivos relacionados con el manejo de datos.<br />
