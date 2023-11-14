@@ -15,13 +15,20 @@ Nuestro cliente, una automotriz china, desea ingresar al mercado de automóviles
    1.1.[Informe De Análisis](docs/) - Documento que resume hallazgos, metodologías y conclusiones del análisis.<br />
    1.2.[Presentación Análisis-MarketStudy](docs/) - Presentación que destaca los puntos clave del estudio.<br />
    
-3. [**/notebooks**](notebooks/) - Carpeta que contiene Jupyter Notebooks esenciales para el proyecto.<br />
+2. [**/notebooks**](notebooks/) - Carpeta que contiene Jupyter Notebooks esenciales para el proyecto.<br />
   2.1. [Conociendo Nuestro Dataset](notebooks/diccionario-datos.ipynb) - Guía detallada que le permitirá comprender la estructura y contenido del conjunto de datos.<br />
   2.2. [Exploración y Análisis de Datos](notebooks/exploración-y-análisis-de-datos.ipynb) - Jupyter Notebook con el código para la exploración y análisis inicial del conjunto de datos.<br />
 
-4. [**/data**](data/) - Carpeta dedicada a almacenar archivos relacionados con el manejo de datos.<br />
-  3.1. [Archivo Original](data/original_dataset.csv) - Este archivo contiene la versión inicial y sin procesar de los datos. Es la información en su forma bruta tal como se adquirió, antes de cualquier manipulación o transformación.<br />
+3. [**/data**](data/) - Carpeta dedicada a almacenar archivos relacionados con el manejo de datos.<br />
 
-5. [**/assets**](assets/) - Carpeta con imágenes y recursos utilizados en el desarrollo del proyecto.
+|                              |                                                  Descripción                                                |      Nombre de Archivo       |
+|------------------------------|-------------------------------------------------------------------------------------------------------------|------------------------------|
+| [Archivo Original](data/original_dataset.csv)| Representa la información en su forma bruta tal como se adquirió, antes de cualquier manipulación o transformación.| original_dataset.csv |
+| Archivo con Data Sucia| Este archivo presenta datos con problemas o imperfecciones que necesitan ser abordados. | dataset_data_sucia.csv  |
+| Archivo con Data Limpia| Después del proceso de limpieza, este archivo contiene datos limpios y listos para su análisis. | dataset_data_limpia.csv |
+|                       | Este archivo está formateado y preparado para ser utilizado como entrada para el entrenamiento del modelo. | dataset_para_alimentar_modelo.csv |
+
+
+4. [**/assets**](assets/) - Carpeta con imágenes y recursos utilizados en el desarrollo del proyecto.
 
 
