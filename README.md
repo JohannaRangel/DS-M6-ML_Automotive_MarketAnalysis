@@ -12,7 +12,7 @@ Nuestro cliente, una automotriz china, desea ingresar al mercado de automóviles
 
 ## Estructura del Proyecto
 1. [**/docs**](docs/) - Carpeta que contiene los entregables.<br />
-   1.1.[Informe De Análisis](docs/) - Documento que resume hallazgos, metodologías y conclusiones del análisis.<br />
+   1.1.[Informe De Análisis](docs/informe-analisis.pdf) - Documento que resume hallazgos, metodologías y conclusiones del análisis.<br />
    1.2.[Presentación Análisis-MarketStudy](docs/) - Presentación que destaca los puntos clave del estudio.<br />
    
 2. [**/notebooks**](notebooks/) - Carpeta que contiene Jupyter Notebooks esenciales para el proyecto.<br />
