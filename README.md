@@ -1,7 +1,7 @@
 ![industria](https://github.com/JohannaRangel/ML_MarketAnalysis-AutomotrizChina/raw/main/assets/industria.png)
 <br />
 
-¡Bienvenidos a nuestro proyecto integrador de predicción de datos en el mercado automotor! Durante este desafío, aplicaremos habilidades en machine learning para explorar, entender y modelar características de vehículos en el mercado actual. Este proyecto forma parte del M6 del Boopcamp el cual nos sirve como práctica previa a la etapa de Labs.
+¡Bienvenidos a nuestro proyecto integrador de predicción de datos en el mercado automotor! Durante este desafío, aplicaremos habilidades en machine learning para explorar, entender y modelar características de vehículos en el mercado actual. Este proyecto forma parte del M6 del Boopcamp el cual nos sirve como práctica previa a la etapa de Labs, sin embargo; cabe destacar que **``` es opcional ```**, **``` no será evaluado ```**,  **``` ni calificado de manera cuantitativa cuantitativa ```**.
 
 ## Planteamiento de la Problemática
 Nuestro cliente, una automotriz china, desea ingresar al mercado de automóviles local. Necesitamos analizar las características de los vehículos actuales para abarcar todos los públicos objetivos. Se proporciona un diccionario de datos con precios y atributos de varios modelos.
