@@ -29,5 +29,12 @@ Nuestro cliente, una automotriz china, desea ingresar al mercado de automóviles
 | [Archivo con Data Limpia](data/cleaned_dataset.csv)| Después del proceso de limpieza, este archivo contiene datos limpios y listos para su análisis. | cleaned_dataset.csv 
 
 4. [**/assets**](assets/) - Carpeta con imágenes y recursos utilizados en el desarrollo del proyecto.
+<br />
+
+### Trabajo realizado en equipo por estudiantes de la cohorte Dataft-17: <br />
+
+| [<img src="https://avatars.githubusercontent.com/JohannaRangel" width=115><br><sub>Johanna Rangel</sub>](https://github.com/JohannaRangel) | |  [<img src="https://avatars.githubusercontent.com/u/120042696?v=4" width=115><br><sub>Gretel Sanchez</sub>](https://github.com/KGSanchezM) |
+| :---: | :---: | :-
+
 
 
