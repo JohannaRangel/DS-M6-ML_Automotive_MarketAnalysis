@@ -15,7 +15,7 @@ Nuestro cliente, una automotriz china, desea ingresar al mercado de automóviles
    1.1.[Informe De Análisis](docs/informe-analisis.pdf) - Documento que resume hallazgos, metodologías y conclusiones del análisis.<br />
    
 2. [**/notebooks**](notebooks/) - Carpeta que contiene Jupyter Notebooks esenciales para el proyecto.<br />
-  2.1. [Conociendo Nuestro Dataset](notebooks/diccionario-datos.ipynb) - Guía detallada que le permitirá comprender la estructura y contenido del conjunto de datos.<br />
+  2.1. [Conociendo Nuestro Dataset](notebooks/diccionario-datos.ipynb) - Guía detallada que le permitirá comprender la estructura y contenido del conjunto de datos (diccionario de datos).<br />
   2.2. [Limpieza de Datos](notebooks/limpieza-datos.ipynb) - Notebook dedicado a la limpieza y preprocesamiento de datos.<br />
   2.3. [Análisis Exploratorio de Datos](notebooks/analisis-exploratorio.ipynb) - Jupyter Notebook con el código para la exploración y análisis inicial del conjunto de datos.<br />
   2.4. [Modelo de Clasificación con Aprendizaje Supervisado](notebooks/clasificacion.ipynb) - Este modelo permite clasificar el precio de los vehículos en baratos y caros usando la mediana de los precios como punto de corte.<br />
